@@ -15,8 +15,7 @@
       "startDate": "2023",
       "description": "V8Pay là hệ thống tự động chuyển tiền, hoàn tiền và xác nhận tăng điểm cho khách hàng, trung gian kết nối giữa các nhà cung cấp dịch vụ ngân hàng. Các ứng dụng được phát triển trên website và thiết bị di động giúp tối ưu hóa chi phí và nâng cao trải nghiệm người dùng.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/v8pay/1.png"
       ],
       "url": "https://v8pay.me/",
       "technologies": [
@@ -87,7 +86,7 @@
       "startDate": "2021",
       "description": "Cleeksy là tất cả những gì bạn cần để xây dựng, vận hành và phát triển doanh nghiệp của mình như số hóa toàn bộ quy trình kinh doanh, quản lý bán hàng đa kênh và điều chỉnh chiến lược tổ chức phù hợp với kế hoạch cá nhân của bạn bằng OKR, quản lý dự án, làm việc có hệ thống :)",
       "images": [
-        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/cleeksy/0.jpg",
         "images/portfolio/cleeksy/1.jpg",
         "images/portfolio/cleeksy/2.jpg",
         "images/portfolio/cleeksy/3.jpg",
@@ -126,8 +125,9 @@
       "startDate": "2020",
       "description": "Ứng dụng di động JobChat giúp bạn lập kế hoạch, xử lý, phân công và quản lý công việc một cách dễ dàng, nhanh chóng và hiệu quả!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/jobchat/1.jpg",
+        "images/portfolio/jobchat/2.jpg",
+        "images/portfolio/jobchat/3.jpg"
       ],
       "url": "https://jobchat.vn",
       "technologies": [

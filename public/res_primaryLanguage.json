@@ -15,8 +15,7 @@
       "startDate": "2023",
       "description": "V8Pay is a system that automatically transfers money, refunds, and confirms point increases for customers and intermediaries connecting between banking service providers. Applications developed on websites and mobile devices help optimize costs and improve user experience.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/v8pay/1.png"
       ],
       "url": "https://v8pay.me/",
       "technologies": [
@@ -55,8 +54,7 @@
       "startDate": "2022",
       "description": "Sagely is a healthcare system for people in Hawaii health systems. Sagely mobile application will help manage patient information in nursing homes, schedule, track information, patients' stats and connect with patient's family",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/sagely/1.png"
       ],
       "url": "https://www.crunchbase.com/organization/sagely",
       "technologies": [
@@ -87,7 +85,7 @@
       "startDate": "2021",
       "description": "Cleeksy is everything you need to build, operate and grow your business such as digitizing your entire business process, managing omnichannel sales, and aligning your organizational strategy with your personal plan. multiply by OKR, manage projects, work systematically :)",
       "images": [
-        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/cleeksy/0.jpg",
         "images/portfolio/cleeksy/1.jpg",
         "images/portfolio/cleeksy/2.jpg",
         "images/portfolio/cleeksy/3.jpg",
@@ -126,8 +124,9 @@
       "startDate": "2020",
       "description": "A JobChat mobile application helps you to plan, process, assign and manage jobs easily, quickly, and efficiently!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/jobchat/1.jpg",
+        "images/portfolio/jobchat/2.jpg",
+        "images/portfolio/jobchat/3.jpg"
       ],
       "url": "https://jobchat.vn",
       "technologies": [

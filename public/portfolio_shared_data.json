@@ -9,14 +9,24 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/ThuyenPV",
         "class": "fab fa-github"
       },
       {
         "name": "instagram",
         "url": "https://www.instagram.com",
         "class": "fab fa-instagram"
-      }
+      },
+       {
+        "name":"Email",
+        "url":"mailto:phamvanthuyen2802@gmail.com?subject=Exciting New Job Opportunity Awaited for You", 
+        "class":"fa fa-envelope"
+       },
+       {
+        "name":"Phone Number",
+        "url":"tel:+84795697332",
+        "class":"fa fa-phone"
+       }
     ],
     "image": "myProfile.jpg"
   },
