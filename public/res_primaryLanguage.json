@@ -1,118 +1,237 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Thuyen Pham. I'm a software engineer with 3.5 years of experience in Flutter Framework technologies, Android Native with good knowledge of Object-Oriented Analysis and Design, including working in international environments. Learning new languages and technologies is what I am passionate about. I am considered a team player because I like to help others and tend to work well within a group.\n If you believe my qualifications align with the requirements of the position, I encourage you to reach out to me. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "V8Pay",
+      "startDate": "2023",
+      "description": "V8Pay is a system that automatically transfers money, refunds, and confirms point increases for customers and intermediaries connecting between banking service providers. Applications developed on websites and mobile devices help optimize costs and improve user experience.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://v8pay.me/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-dart-plain",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-react-original colored",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-mongodb-plain colored",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-amazonwebservices-original colored",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Sagely",
+      "startDate": "2022",
+      "description": "Sagely is a healthcare system for people in Hawaii health systems. Sagely mobile application will help manage patient information in nursing homes, schedule, track information, patients' stats and connect with patient's family",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://www.crunchbase.com/organization/sagely",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-dart-plain",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-react-original colored",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-mongodb-plain colored",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Cleeksy",
+      "startDate": "2021",
+      "description": "Cleeksy is everything you need to build, operate and grow your business such as digitizing your entire business process, managing omnichannel sales, and aligning your organizational strategy with your personal plan. multiply by OKR, manage projects, work systematically :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/cleeksy/1.jpg",
+        "images/portfolio/cleeksy/2.jpg",
+        "images/portfolio/cleeksy/3.jpg",
+        "images/portfolio/cleeksy/4.jpg",
+        "images/portfolio/cleeksy/5.jpg",
+        "images/portfolio/cleeksy/6.jpg",
+        "images/portfolio/cleeksy/7.jpg",
+        "images/portfolio/cleeksy/8.jpg"
+      ],
+      "url": "https://cleeksy.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-dotnetcore-plain colored",
+          "name": ".NET"
+        },
+        {
+          "class": "devicon-angularjs-plain colored",
+          "name": "Angular JS"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain colored",
+          "name": "Angular JS"
+        }
+      ]
+    },
+    {
+      "title": "JobChat",
+      "startDate": "2020",
+      "description": "A JobChat mobile application helps you to plan, process, assign and manage jobs easily, quickly, and efficiently!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://jobchat.vn",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-dart-plain",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-react-original colored",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-graphql-plain colored",
+          "name": "GraphQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DoubleDragon Properties Corp",
+      "title": "Flutter Developer",
+      "years": "03.2022 - 03.2023",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "GetX State"
+      ],
+      "technologies": [
+        "Flutter",
+        "GetX state Management",
+        "Dart",
+        "React JS",
+        "Android",
+        "Kotlin",
+        "Node JS",
+        "MongoDB",
+        "AWS"
+      ]
+    },
+    {
+      "company": "DataHouse Asia",
+      "title": "Flutter Developer/ Front-End Developer",
+      "years": "03.2022 - 03.2023",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "Bloc State",
+        "React JS",
+        "Redux",
+        "Tailwin CSS"
+      ],
+      "technologies": [
+        "Flutter",
+        "Bloc",
+        "Dart",
+        "Node JS",
+        "Mongo DB"
+      ]
+    },
+    {
+      "company": "EnLab Software",
+      "title": "Flutter Developer",
+      "years": "06.2021 - 03.2022",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "GetX State",
+        "Clean Architecture"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Angular",
+        ".NET",
+        "C#",
+        "SQL Server"
+      ]
+    },
+    {
+      "company": "Jobchat JSC",
+      "title": "Flutter Developer",
+      "years": "04.2020 - 06.2021",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "Bloc State"
+      ],
+      "technologies": [
+        "Flutter",
+        "Bloc",
+        "React JS",
+        "Node JS",
+        "TypeScript",
+        "GraphQL"
+      ]
+    }
+  ]
+}

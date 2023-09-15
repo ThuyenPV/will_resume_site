@@ -1,116 +1,237 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Chào bạn",
+    "description": "👋 Tôi là Thuyên Phạm. Tôi là kỹ sư phần mềm với 3,5 năm kinh nghiệm về công nghệ Flutter Framework, Android Native với kiến thức tốt về phân tích và thiết kế hướng đối tượng, bao gồm cả làm việc trong môi trường quốc tế. Học ngôn ngữ và công nghệ mới là điều tôi đam mê. Tôi được coi là một người có tinh thần đồng đội vì tôi thích giúp đỡ người khác và có xu hướng làm việc tốt trong nhóm.\n Nếu bạn tin rằng trình độ chuyên môn của tôi phù hợp với yêu cầu của vị trí, tôi khuyến khích bạn liên hệ với tôi. Cảm ơn bạn 💜",
+    "section_name": {
+      "about": "Thông tin về tôi",
+      "projects": "Dự án",
+      "skills": "Kỹ năng",
+      "experience": "Kinh nghiệm"
+    }
+  },
+  "projects": [
+    {
+      "title": "V8Pay",
+      "startDate": "2023",
+      "description": "V8Pay là hệ thống tự động chuyển tiền, hoàn tiền và xác nhận tăng điểm cho khách hàng, trung gian kết nối giữa các nhà cung cấp dịch vụ ngân hàng. Các ứng dụng được phát triển trên website và thiết bị di động giúp tối ưu hóa chi phí và nâng cao trải nghiệm người dùng.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://v8pay.me/",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-dart-plain",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-react-original colored",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-mongodb-plain colored",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-amazonwebservices-original colored",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-android-plain colored",
+          "name": "Android"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Sagely",
+      "startDate": "2022",
+      "description": "Sagely là hệ thống chăm sóc sức khỏe dành cho người dân trong hệ thống y tế Hawaii. Ứng dụng di động Sagely sẽ giúp quản lý thông tin bệnh nhân tại viện dưỡng lão, lên lịch, theo dõi thông tin, số liệu thống kê của bệnh nhân và kết nối với gia đình bệnh nhân",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://www.crunchbase.com/organization/sagely",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-dart-plain",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-react-original colored",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-mongodb-plain colored",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Cleeksy",
+      "startDate": "2021",
+      "description": "Cleeksy là tất cả những gì bạn cần để xây dựng, vận hành và phát triển doanh nghiệp của mình như số hóa toàn bộ quy trình kinh doanh, quản lý bán hàng đa kênh và điều chỉnh chiến lược tổ chức phù hợp với kế hoạch cá nhân của bạn bằng OKR, quản lý dự án, làm việc có hệ thống :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/cleeksy/1.jpg",
+        "images/portfolio/cleeksy/2.jpg",
+        "images/portfolio/cleeksy/3.jpg",
+        "images/portfolio/cleeksy/4.jpg",
+        "images/portfolio/cleeksy/5.jpg",
+        "images/portfolio/cleeksy/6.jpg",
+        "images/portfolio/cleeksy/7.jpg",
+        "images/portfolio/cleeksy/8.jpg"
+      ],
+      "url": "https://cleeksy.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-dart-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-dotnetcore-plain colored",
+          "name": ".NET"
+        },
+        {
+          "class": "devicon-angularjs-plain colored",
+          "name": "Angular JS"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain colored",
+          "name": "Angular JS"
+        }
+      ]
+    },
+    {
+      "title": "JobChat",
+      "startDate": "2020",
+      "description": "Ứng dụng di động JobChat giúp bạn lập kế hoạch, xử lý, phân công và quản lý công việc một cách dễ dàng, nhanh chóng và hiệu quả!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://jobchat.vn",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        },
+        {
+          "class": "devicon-dart-plain",
+          "name": "Dart"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-react-original colored",
+          "name": "React JS"
+        },
+        {
+          "class": "devicon-graphql-plain colored",
+          "name": "GraphQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "DoubleDragon Properties Corp",
+      "title": "Flutter Developer",
+      "years": "03.2022 - 03.2023",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "GetX State"
+      ],
+      "technologies": [
+        "Flutter",
+        "GetX state Management",
+        "Dart",
+        "React JS",
+        "Android",
+        "Kotlin",
+        "Node JS",
+        "MongoDB",
+        "AWS"
+      ]
+    },
+    {
+      "company": "DataHouse Asia",
+      "title": "Flutter Developer/ Front-End Developer",
+      "years": "03.2022 - 03.2023",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "Bloc State",
+        "React JS",
+        "Redux",
+        "Tailwin CSS"
+      ],
+      "technologies": [
+        "Flutter",
+        "Bloc",
+        "Dart",
+        "Node JS",
+        "Mongo DB"
+      ]
+    },
+    {
+      "company": "EnLab Software",
+      "title": "Flutter Developer",
+      "years": "06.2021 - 03.2022",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "GetX State",
+        "Clean Architecture"
+      ],
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Angular",
+        ".NET",
+        "C#",
+        "SQL Server"
+      ]
+    },
+    {
+      "company": "Jobchat JSC",
+      "title": "Flutter Developer",
+      "years": "04.2020 - 06.2021",
+      "mainTech": [
+        "Flutter",
+        "Dart",
+        "Bloc State"
+      ],
+      "technologies": [
+        "Flutter",
+        "Bloc",
+        "React JS",
+        "Node JS",
+        "TypeScript",
+        "GraphQL"
+      ]
+    }
+  ]
+}
