@@ -43,6 +43,11 @@
         "level": "95"
       },
       {
+        "name": "Firebase",
+        "class":"devicon-firebase-plain colored",
+        "level": "95"
+      },
+      {
         "name": "Android",
         "class": "devicon-android-plain colored",
         "level": "80"
